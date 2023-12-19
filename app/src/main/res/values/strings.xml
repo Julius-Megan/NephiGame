@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Battleship War</string>
+    <string name="time">TIME: </string>
+    <string name="score">SCORE: </string>
+    <string name="about_Title">Battleship War</string>
+    <string name="about_summary">This game was built by the students of CS203 at Brigham Young University–Hawaii during Fall 2022 semester. Go Seasiders!</string>
+
+    <string name="new_highscore">Congratulations! A new high score!</string>
+    <string name="same_highscore">Better luck next time! (Score to beat:</string>
+    <string name="play_again">Play again?</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+
+
+    <string name="title_activity_prefs">Preferences</string>
+    <string name="sound_effects">Sound effects</string>
+    <string name="sound_summaryON">Sounds effects will be played</string>
+    <string name="sound_summaryOff">Sounds effects will not be played</string>
+    <string name="rapid_cannon_pref">Rapid-fire Cannons</string>
+    <string name="cannon_summaryOn">Cannons will fire at each tap</string>
+    <string name="cannon_summaryOff">Only one missile at a time</string>
+    <string name="rapid_dc_prefs">Rapid-fire Depth Charges</string>
+    <string name="dc_summaryON">Depth charges will drop at each tap</string>
+    <string name="dc_summaryOFF">Only one depth charge at a time</string>
+    <string name="sub_many_prefs">How many submarines?</string>
+    <string name="sub_many_summary">Number of submarines on-screen at a time</string>
+    <string name="plane_man_prefs">How many airplanes?</string>
+    <string name="plane_many_summary">Number of airplanes on-screen at a time</string>
+    <string name="sub_speed_prefs">Submarine speed</string>
+    <string name="sub_speed_summary">How fast do submarines move?</string>
+    <string name="plane_speed_prefs">Airplane speed</string>
+    <string name="plane_speed_summary">How fast do airplanes move?</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>
+

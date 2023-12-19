@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Ralaban ning mga Barko</string>
+    <string name="time">ORAS: </string>
+    <string name="score">PUNTOS: </string>
+    <string name="about_Title">Guera ning mga Barko</string>
+    <string name="about_summary">Kawat na gibo kang mga estudyante hali sa BYU-Hawaii, na nag kaklase nungyan na semestre.</string>
+
+    <string name="new_highscore">Matibayun! Bagong pinaka halangkaw na puntos!</string>
+    <string name="same_highscore">Sayang, Testingun mo nlng giraray sa sunod! (Puntos na dapat daugon:</string>
+    <string name="play_again">Kawat giraray?</string>
+    <string name="game_over">TAPOS</string>
+    <string name="yes">iyo</string>
+    <string name="no">dai</string>
+
+
+    <string name="title_activity_prefs">Baguhon sa sadiring kabubut-on</string>
+    <string name="sound_effects">Tanog</string>
+    <string name="sound_summaryON">May tanog</string>
+    <string name="sound_summaryOff">Mayong tanog</string>
+    <string name="rapid_cannon_pref">Bilis kang tira</string>
+    <string name="cannon_summaryOn">Mabilis na badil</string>
+    <string name="cannon_summaryOff">Pa saro-saro lang</string>
+    <string name="rapid_dc_prefs">Bilis kang pasabog</string>
+    <string name="dc_summaryON">Mabilis na pasabog</string>
+    <string name="dc_summaryOFF">Pa saro-saro lang</string>
+    <string name="sub_many_prefs">Ganu kadakul ang submarin?</string>
+    <string name="sub_many_summary">Pirang submarin ang nasa screen?</string>
+    <string name="plane_man_prefs">Ganu kadakul ang eroplano?</string>
+    <string name="plane_many_summary">Pirang eroplano ang nasa screen?</string>
+    <string name="sub_speed_prefs">Bilis kang submarin</string>
+    <string name="sub_speed_summary">Ganu kabilis ang submarine?</string>
+    <string name="plane_speed_prefs">Bilis kang eroplano</string>
+    <string name="plane_speed_summary">Ganu kabilis ang eroplano?</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>
+
